@@ -10,5 +10,7 @@
 
 5. Longest substring with at most k distinct characters : https://github.com/eMahtab/longest-substring-with-at-most-k-distinct-characters
 
+6. Minimum Window Substring : https://github.com/eMahtab/minimum-window-substring
+
 
 
