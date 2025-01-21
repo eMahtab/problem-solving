@@ -12,5 +12,7 @@
 
 6. Minimum Window Substring : https://github.com/eMahtab/minimum-window-substring
 
+7. Longest repeating character replacement : https://github.com/eMahtab/longest-repeating-character-replacement
+
 
 
